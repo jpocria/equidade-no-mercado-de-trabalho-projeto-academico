@@ -28,6 +28,6 @@ O planejamento completo está em `PLANO_DO_PROJETO.md`. As regras de desenvolvim
 ## Situação atual
 
 - E1: concluído e preservado em PDF.
-- E2: preparado em formato editável, PNG e PDF.
+- E2: versão V3 definida como oficial em PDF e PNG.
 - Fases seguintes: pastas reservadas, com execução prevista nas datas do cronograma.
 

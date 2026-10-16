@@ -58,9 +58,9 @@ Ao final, mostrar a quantidade e o percentual das expressões cadastradas encont
 
 - **Prazo operacional:** 16/10/2026.
 - **Entrega oficial:** PDF ou PNG.
-- **Materiais de trabalho:** arquivo editável `.drawio` e notas de estudo.
+- **Material de apoio:** notas de estudo para orientar a explicação do grupo.
 - **Critério:** representar sequência, decisões, repetições e funções com simbologia correta.
-- **Registro de 15/10/2026:** criada a proposta V3 em PDF vetorial A3, mantendo V1 e V2. O redesenho preserva as três áreas, amplia as margens internas, separa melhor os conectores e foi conferido em tamanho A3 e em redução simulada para A4.
+- **Registro de 15/10/2026:** a V3 foi definida como versão oficial em PDF vetorial A3 e PNG. O redesenho preserva as três áreas, amplia as margens internas, separa melhor os conectores e foi conferido em tamanho A3 e em redução simulada para A4.
 
 ### Fase 3 - Checkpoint de código preliminar
 

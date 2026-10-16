@@ -2,7 +2,7 @@
 
 ## O que deve ser enviado
 
-O arquivo recomendado para envio no AVA é `fluxograma_analisador.pdf`. O PNG é uma alternativa aceita pelo enunciado. O arquivo `.drawio` serve para editar o desenho e não precisa ser enviado, salvo se o professor solicitar.
+O arquivo oficial recomendado para envio no AVA é `fluxograma_analisador.pdf`, correspondente à V3. O PNG é uma alternativa aceita pelo enunciado.
 
 ## Como ler os símbolos
 
