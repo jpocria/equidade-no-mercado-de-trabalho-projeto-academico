@@ -69,6 +69,7 @@ Ao final, mostrar a quantidade e o percentual das expressões cadastradas encont
 - Apresentar uma versão incompleta, mas executável, para obter feedback do professor.
 - Registrar o feedback antes de alterar a versão final.
 - **Registro de 15/10/2026:** iniciada a versão preliminar com 15 regras organizadas em quatro listas paralelas: termos, categorias, explicações e sugestões. A primeira etapa foi executada para conferir a quantidade de regras cadastradas.
+- **Registro de 15/10/2026:** criada a documentação central do projeto e atualizado o README. Foram consolidados o estado por fase, o catálogo das 15 regras, a arquitetura planejada, os testes, as limitações, a manutenção e o registro provisório de apoio de IA. A documentação aguarda revisão e compreensão por João Pedro Antunes e Tulio Amaral.
 
 ### Fase 4 - E3: Código-fonte
 

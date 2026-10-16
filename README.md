@@ -23,11 +23,16 @@ O trabalho foi dividido em sete fases internas:
 6. E4 - relatório final (entregável oficial).
 7. E5 - apresentação e demonstração (entregável oficial).
 
-O planejamento completo está em `PLANO_DO_PROJETO.md`. As regras de desenvolvimento e de linguagem estão em `AGENTS.md`.
+Documentos principais:
+
+- [`DOCUMENTACAO_DO_PROJETO.md`](DOCUMENTACAO_DO_PROJETO.md): referência central sobre escopo, regras, arquitetura, testes, limitações e manutenção;
+- [`PLANO_DO_PROJETO.md`](PLANO_DO_PROJETO.md): cronograma, fases e registros de avanço;
+- [`AGENTS.md`](AGENTS.md): regras acadêmicas, técnicas e éticas do projeto.
 
 ## Situação atual
 
 - E1: concluído e preservado em PDF.
 - E2: versão V3 definida como oficial em PDF e PNG.
-- Fases seguintes: pastas reservadas, com execução prevista nas datas do cronograma.
+- Checkpoint preliminar: em andamento, com 15 regras cadastradas em quatro listas paralelas.
+- O analisador completo ainda não foi implementado; funções, entrada, validação, exceção contextual e repetição continuam planejadas para as próximas etapas.
 
